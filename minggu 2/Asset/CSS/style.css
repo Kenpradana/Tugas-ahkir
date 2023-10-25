@@ -1,0 +1,68 @@
+/* CSS h1 */
+h1 {
+    color: blue;
+    font-size: 40px;
+}
+/* id selector */
+#Judul {
+font-weight: 800;
+font-size: 40px;
+color: blue;
+
+}
+/* class selector */
+.sub-judul {
+    color: aqua;
+    text-shadow: 5px 3px 5px  red;
+    
+}
+
+.content {
+    font-style: italic;
+    color: brown;
+}
+
+.p1, .p3{
+    color: blue;
+}
+
+.p2 {
+    color: blueviolet;
+}
+/* link */
+.Link{
+    color: rgb(244, 18, 18);
+
+}
+.Link:hover{
+      background-color: black;
+        color: white;
+}
+.container{
+    border: 2px solid blue;
+}
+.box {
+    border: 2px solid red;
+    /* background-color: red; */
+    padding: 10px;
+    margin: 10px;
+}
+
+.box .content{
+    border: 3px solid blue;
+    background-color: aqua;
+    
+}
+.box p{
+    color: white;
+}
+
+body {
+   background-image: url(/Asset/Image/pngtree-modern-double-color-futuristic-neon-background-picture-image_1181573.jpg) ;
+}
+
+.border{
+    border: 1px solid;
+    border-style: dotted;
+}
+
