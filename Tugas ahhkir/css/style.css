@@ -1,0 +1,30 @@
+.banner{
+    background: url(https://img.freepik.com/free-photo/blurry-neon-light-background_23-2148132649.jpg?w=740&t=st=1698212662~exp=1698213262~hmac=df71a087812d279f6ee943e6fb6730603c1b6c5e5cbeeb398e22c535d2625fd0) no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+.lingkaran{
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #fff;
+    background-color: #dc3545;
+}
+.lingkaran i {
+    position: relative;
+    top: 30px;
+}
+.crop-img{
+    object-fit: cover;
+}
+.kontak{
+    background: url(https://img.freepik.com/free-photo/blurry-neon-light-background_23-2148132649.jpg?w=740&t=st=1698212662~exp=1698213262~hmac=df71a087812d279f6ee943e6fb6730603c1b6c5e5cbeeb398e22c535d2625fd0) no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: black;
+}
